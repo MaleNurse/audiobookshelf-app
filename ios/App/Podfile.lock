@@ -1,5 +1,5 @@
 PODS:
-  - Alamofire (5.9.0)
+  - Alamofire (5.8.1)
   - ByteowlsCapacitorFilesharer (5.0.0):
     - Capacitor
   - Capacitor (5.6.0):
@@ -9,6 +9,8 @@ PODS:
   - CapacitorBrowser (5.1.0):
     - Capacitor
   - CapacitorClipboard (5.0.6):
+    - Capacitor
+  - CapacitorCommunityVolumeButtons (1.0.2):
     - Capacitor
   - CapacitorCordova (5.6.0)
   - CapacitorDialog (5.0.6):
@@ -23,11 +25,11 @@ PODS:
     - Capacitor
   - CordovaPlugins (5.6.0):
     - CapacitorCordova
-  - Realm (10.48.0):
-    - Realm/Headers (= 10.48.0)
-  - Realm/Headers (10.48.0)
-  - RealmSwift (10.48.0):
-    - Realm (= 10.48.0)
+  - Realm (10.47.0):
+    - Realm/Headers (= 10.47.0)
+  - Realm/Headers (10.47.0)
+  - RealmSwift (10.47.0):
+    - Realm (= 10.47.0)
 
 DEPENDENCIES:
   - Alamofire (~> 5.5)
@@ -36,6 +38,7 @@ DEPENDENCIES:
   - "CapacitorApp (from `../../node_modules/@capacitor/app`)"
   - "CapacitorBrowser (from `../../node_modules/@capacitor/browser`)"
   - "CapacitorClipboard (from `../../node_modules/@capacitor/clipboard`)"
+  - "CapacitorCommunityVolumeButtons (from `../../node_modules/@capacitor-community/volume-buttons`)"
   - "CapacitorCordova (from `../../node_modules/@capacitor/ios`)"
   - "CapacitorDialog (from `../../node_modules/@capacitor/dialog`)"
   - "CapacitorHaptics (from `../../node_modules/@capacitor/haptics`)"
@@ -62,6 +65,8 @@ EXTERNAL SOURCES:
     :path: "../../node_modules/@capacitor/browser"
   CapacitorClipboard:
     :path: "../../node_modules/@capacitor/clipboard"
+  CapacitorCommunityVolumeButtons:
+    :path: "../../node_modules/@capacitor-community/volume-buttons"
   CapacitorCordova:
     :path: "../../node_modules/@capacitor/ios"
   CapacitorDialog:
@@ -78,12 +83,13 @@ EXTERNAL SOURCES:
     :path: "../capacitor-cordova-ios-plugins"
 
 SPEC CHECKSUMS:
-  Alamofire: 02b772c9910e8eba1a079227c32fbd9e46c90a24
+  Alamofire: 3ca42e259043ee0dc5c0cdd76c4bc568b8e42af7
   ByteowlsCapacitorFilesharer: f6a773825632d65d5404a34764c4a3fd857bb176
   Capacitor: ebfc16cdb8116d04c101686b080342872da42d43
   CapacitorApp: 024e1b1bea5f883d79f6330d309bc441c88ad04a
   CapacitorBrowser: 7a0fb6a1011abfaaf2dfedfd8248f942a8eda3d6
   CapacitorClipboard: 77edf49827ea21da2a9c05c690a4a6a4d07199c4
+  CapacitorCommunityVolumeButtons: 132d27a8e482898e45480b7edc882f3d26a00cb6
   CapacitorCordova: 931b48fcdbc9bc985fc2f16cec9f77c794a27729
   CapacitorDialog: 0f3c15dfe9414b83bc64aef4078f1b92bcfead26
   CapacitorHaptics: 1fffc1217c7e64a472d7845be50fb0c2f7d4204c
@@ -91,9 +97,9 @@ SPEC CHECKSUMS:
   CapacitorPreferences: f03954bcb0ff09c792909e46bff88e3183c16b10
   CapacitorStatusBar: 565c0a1ebd79bb40d797606a8992b4a105885309
   CordovaPlugins: dae7dac59b3cce58f5a7ce3894709d8f0f824656
-  Realm: ac7ec3bd884b42282431fc414cc0bb3e92d726cf
-  RealmSwift: 4eb8b254ebe413cbc486c5a366f2a315b54d75f7
+  Realm: e43fb540ae947497e3ea8a662443256920602060
+  RealmSwift: 8b06ed06b5d16749ae0c4d91c0cba414a9e28189
 
-PODFILE CHECKSUM: 02e6ffe2f51a453ce222ee9af0e55e9448d8514c
+PODFILE CHECKSUM: d0bbe98fb520752929ffc76e7c901d54b2eed7f0
 
-COCOAPODS: 1.15.2
+COCOAPODS: 1.12.1
