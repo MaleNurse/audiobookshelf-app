@@ -1,5 +1,5 @@
 PODS:
-  - Alamofire (5.8.1)
+  - Alamofire (5.10.1)
   - ByteowlsCapacitorFilesharer (5.0.0):
     - Capacitor
   - Capacitor (5.6.0):
@@ -25,11 +25,11 @@ PODS:
     - Capacitor
   - CordovaPlugins (5.6.0):
     - CapacitorCordova
-  - Realm (10.47.0):
-    - Realm/Headers (= 10.47.0)
-  - Realm/Headers (10.47.0)
-  - RealmSwift (10.47.0):
-    - Realm (= 10.47.0)
+  - Realm (10.54.1):
+    - Realm/Headers (= 10.54.1)
+  - Realm/Headers (10.54.1)
+  - RealmSwift (10.54.1):
+    - Realm (= 10.54.1)
 
 DEPENDENCIES:
   - Alamofire (~> 5.5)
@@ -83,7 +83,7 @@ EXTERNAL SOURCES:
     :path: "../capacitor-cordova-ios-plugins"
 
 SPEC CHECKSUMS:
-  Alamofire: 3ca42e259043ee0dc5c0cdd76c4bc568b8e42af7
+  Alamofire: 840d2a1ad82355b536ec6ba5f97e5bfa54600ca3
   ByteowlsCapacitorFilesharer: f6a773825632d65d5404a34764c4a3fd857bb176
   Capacitor: ebfc16cdb8116d04c101686b080342872da42d43
   CapacitorApp: 024e1b1bea5f883d79f6330d309bc441c88ad04a
@@ -97,9 +97,9 @@ SPEC CHECKSUMS:
   CapacitorPreferences: f03954bcb0ff09c792909e46bff88e3183c16b10
   CapacitorStatusBar: 565c0a1ebd79bb40d797606a8992b4a105885309
   CordovaPlugins: dae7dac59b3cce58f5a7ce3894709d8f0f824656
-  Realm: e43fb540ae947497e3ea8a662443256920602060
-  RealmSwift: 8b06ed06b5d16749ae0c4d91c0cba414a9e28189
+  Realm: 7c70fc7ae6ebfb635b29bc05ac1a6c5eeeb3c572
+  RealmSwift: 12797d5849c90f37eafad8f44b4dadb8e558a806
 
 PODFILE CHECKSUM: d0bbe98fb520752929ffc76e7c901d54b2eed7f0
 
-COCOAPODS: 1.12.1
+COCOAPODS: 1.15.2

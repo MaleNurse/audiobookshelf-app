@@ -744,11 +744,14 @@
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 34;
+				CURRENT_PROJECT_VERSION = 36;
 				DEVELOPMENT_TEAM = MKS2SH4F8X;
 				INFOPLIST_FILE = App/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
 				MARKETING_VERSION = 0.9.77;
 				OTHER_SWIFT_FLAGS = "$(inherited) \"-D\" \"COCOAPODS\" \"-DDEBUG\"";
 				PRODUCT_BUNDLE_IDENTIFIER = com.audiobookshelf.app.zach.dev;
@@ -768,11 +771,14 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = Icons;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 34;
+				CURRENT_PROJECT_VERSION = 36;
 				DEVELOPMENT_TEAM = MKS2SH4F8X;
 				INFOPLIST_FILE = App/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
 				MARKETING_VERSION = 0.9.76;
 				PRODUCT_BUNDLE_IDENTIFIER = com.audiobookshelf.app.zach;
 				PRODUCT_NAME = "$(TARGET_NAME)";
