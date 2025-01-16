@@ -2,28 +2,28 @@ PODS:
   - Alamofire (5.10.1)
   - ByteowlsCapacitorFilesharer (5.0.0):
     - Capacitor
-  - Capacitor (5.6.0):
+  - Capacitor (6.2.0):
     - CapacitorCordova
-  - CapacitorApp (5.0.6):
+  - CapacitorApp (6.0.2):
     - Capacitor
-  - CapacitorBrowser (5.1.0):
+  - CapacitorBrowser (6.0.4):
     - Capacitor
-  - CapacitorClipboard (5.0.6):
+  - CapacitorClipboard (6.0.2):
     - Capacitor
-  - CapacitorCommunityVolumeButtons (1.0.2):
+  - CapacitorCommunityVolumeButtons (6.0.1):
     - Capacitor
-  - CapacitorCordova (5.6.0)
-  - CapacitorDialog (5.0.6):
+  - CapacitorCordova (6.2.0)
+  - CapacitorDialog (6.0.2):
     - Capacitor
-  - CapacitorHaptics (5.0.6):
+  - CapacitorHaptics (6.0.2):
     - Capacitor
-  - CapacitorNetwork (5.0.6):
+  - CapacitorNetwork (6.0.3):
     - Capacitor
-  - CapacitorPreferences (5.0.6):
+  - CapacitorPreferences (6.0.3):
     - Capacitor
-  - CapacitorStatusBar (5.0.6):
+  - CapacitorStatusBar (6.0.2):
     - Capacitor
-  - CordovaPlugins (5.6.0):
+  - CordovaPlugins (6.2.0):
     - CapacitorCordova
   - Realm (10.54.1):
     - Realm/Headers (= 10.54.1)
