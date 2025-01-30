@@ -756,7 +756,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 0.9.77;
+				MARKETING_VERSION = 0.9.79;
 				OTHER_SWIFT_FLAGS = "$(inherited) \"-D\" \"COCOAPODS\" \"-DDEBUG\"";
 				PRODUCT_BUNDLE_IDENTIFIER = com.audiobookshelf.app.zach.dev;
 				PRODUCT_NAME = Audiobookshelf.WW;
@@ -783,7 +783,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 0.9.76;
+				MARKETING_VERSION = 0.9.79;
 				PRODUCT_BUNDLE_IDENTIFIER = com.audiobookshelf.app.zach;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "";
