@@ -1,29 +1,29 @@
 PODS:
   - Alamofire (5.10.2)
-  - ByteowlsCapacitorFilesharer (5.0.0):
+  - ByteowlsCapacitorFilesharer (6.0.0):
     - Capacitor
-  - Capacitor (5.6.0):
+  - Capacitor (6.2.0):
     - CapacitorCordova
-  - CapacitorApp (5.0.6):
+  - CapacitorApp (6.0.2):
     - Capacitor
-  - CapacitorBrowser (5.1.0):
+  - CapacitorBrowser (6.0.4):
     - Capacitor
-  - CapacitorClipboard (5.0.6):
+  - CapacitorClipboard (6.0.2):
     - Capacitor
   - CapacitorCommunityKeepAwake (5.0.1):
     - Capacitor
   - CapacitorCommunityVolumeButtons (6.0.1):
     - Capacitor
-  - CapacitorCordova (5.6.0)
-  - CapacitorDialog (5.0.6):
+  - CapacitorCordova (6.2.0)
+  - CapacitorDialog (6.0.2):
     - Capacitor
-  - CapacitorHaptics (5.0.6):
+  - CapacitorHaptics (6.0.2):
     - Capacitor
-  - CapacitorNetwork (5.0.6):
+  - CapacitorNetwork (6.0.3):
     - Capacitor
-  - CapacitorPreferences (5.0.6):
+  - CapacitorPreferences (6.0.3):
     - Capacitor
-  - CapacitorStatusBar (5.0.6):
+  - CapacitorStatusBar (6.0.2):
     - Capacitor
   - CordovaPlugins (5.6.0):
     - CapacitorCordova
@@ -88,23 +88,23 @@ EXTERNAL SOURCES:
     :path: "../capacitor-cordova-ios-plugins"
 
 SPEC CHECKSUMS:
-  Alamofire: 3ca42e259043ee0dc5c0cdd76c4bc568b8e42af7
-  ByteowlsCapacitorFilesharer: ea14537059851aed44df8c52f0984f61cd34f53b
-  Capacitor: 1f3c7b9802d958cd8c4eb63895fff85dff2e1eea
-  CapacitorApp: 2a8c3a0b0814322e5e6e15fe595f02c3808f0f8b
-  CapacitorBrowser: ef0529d16cd8839281050c350e7bbee4f5c6d65f
-  CapacitorClipboard: 55e0a514f1e97b1409d533266c119dcbff3e78c3
-  CapacitorCommunityKeepAwake: e2ddd50812e3407f8dc3a2c28e97d66e9b59b2f5
-  CapacitorCommunityVolumeButtons: a7612c5996f1c66320ef7a567522346d84a57e22
+  Alamofire: 7193b3b92c74a07f85569e1a6c4f4237291e7496
+  ByteowlsCapacitorFilesharer: 9695137d2fd2e79a2679e9bc06b0e9f25b9762d4
+  Capacitor: 05d35014f4425b0740fc8776481f6a369ad071bf
+  CapacitorApp: e1e6b7d05e444d593ca16fd6d76f2b7c48b5aea7
+  CapacitorBrowser: 3413e46a583b6edc3f20448732a531078d6924c6
+  CapacitorClipboard: 4443c3cdb7c77b1533dfe3ff0f9f7756aa8579df
+  CapacitorCommunityKeepAwake: 6ca8e4c8db46f0cf99e33f1ca1162fbc97c8611e
+  CapacitorCommunityVolumeButtons: dd892a2c3d7c49a4536fcd97f6d6037fe96e0646
   CapacitorCordova: b33e7f4aa4ed105dd43283acdd940964374a87d9
-  CapacitorDialog: e966e2261e1c74a8a502e610dd66b4f97ec6fcca
-  CapacitorHaptics: b53409aaca1203f79c6d0eb3ed5de40556339518
-  CapacitorNetwork: da96b5fff8d05b67f4658503aabb22f65bda2c0f
-  CapacitorPreferences: 9f9935bce493977183511362131a93f7b260191a
-  CapacitorStatusBar: 3b9ac7d0684770522c532d1158a1434512ab1477
-  CordovaPlugins: 08731213c63ccf137c576da2926bf4b3a8c40f17
-  Realm: e43fb540ae947497e3ea8a662443256920602060
-  RealmSwift: 8b06ed06b5d16749ae0c4d91c0cba414a9e28189
+  CapacitorDialog: 25878ac91f5ffaca62ce78884b6e1473e75596e1
+  CapacitorHaptics: 4fc15afe22b123d093e6ace24d95e8e3b1f261b9
+  CapacitorNetwork: ef75d8208f0974a2de3f98136bf9684524798f5c
+  CapacitorPreferences: f3eadae2369ac3ab8e21743a2959145b0d1286a3
+  CapacitorStatusBar: b16799a26320ffa52f6c8b01737d5a95bbb8f3eb
+  CordovaPlugins: 6b147ee40582c61db63c6b4a8a4d1ad421fd1ae6
+  Realm: 16852517a207e98cc6acba9336b56c30d06d84ad
+  RealmSwift: bca777b3904ee58a9b16036e1840012f03348060
 
 PODFILE CHECKSUM: 96d7bd74a37a613766883c65fc082490b5dbd7e9
 
