@@ -109,6 +109,7 @@
 		504EC3111FED79650016851F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		504EC3131FED79650016851F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		50B271D01FEDC1A000F3C39B /* public */ = {isa = PBXFileReference; lastKnownFileType = folder; path = public; sourceTree = "<group>"; };
+		60190739B1638741A9F4C2B3 /* Pods-Audiobookshelf.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Audiobookshelf.release.xcconfig"; path = "Target Support Files/Pods-Audiobookshelf/Pods-Audiobookshelf.release.xcconfig"; sourceTree = "<group>"; };
 		B0DF35393989F8AB43A61ECB /* Pods-Audiobookshelf.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Audiobookshelf.debug.xcconfig"; path = "Target Support Files/Pods-Audiobookshelf/Pods-Audiobookshelf.debug.xcconfig"; sourceTree = "<group>"; };
 		E9D5504528AC1A3900C746DD /* LibraryItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LibraryItem.swift; sourceTree = "<group>"; };
 		E9D5504728AC1A7A00C746DD /* MediaType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MediaType.swift; sourceTree = "<group>"; };
@@ -176,7 +177,7 @@
 			isa = PBXGroup;
 			children = (
 				B0DF35393989F8AB43A61ECB /* Pods-Audiobookshelf.debug.xcconfig */,
-				4AE11AB79B63FBB15486D7A6 /* Pods-Audiobookshelf.release.xcconfig */,
+				60190739B1638741A9F4C2B3 /* Pods-Audiobookshelf.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -757,7 +758,7 @@
 		};
 		504EC3181FED79650016851F /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 4AE11AB79B63FBB15486D7A6 /* Pods-Audiobookshelf.release.xcconfig */;
+			baseConfigurationReference = 60190739B1638741A9F4C2B3 /* Pods-Audiobookshelf.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = Icons;
 				CLANG_ENABLE_MODULES = YES;
